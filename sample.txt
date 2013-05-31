@@ -1,5 +1,3 @@
 This is a sample test
 
-Make some changes from the Github server directly
-
-I am making some changes at the local
+I have made some changes from the local, and prepare to upload to the server now
